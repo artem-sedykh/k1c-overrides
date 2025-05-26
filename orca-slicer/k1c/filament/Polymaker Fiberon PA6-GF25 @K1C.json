@@ -48,7 +48,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "Fiberon PA 6-GF25 Polymaker @K1C 0.4 nozzle"
+        "Polymaker Fiberon PA6-GF25 @K1C"
     ],
     "filament_type": [
         "PA"
@@ -71,7 +71,7 @@
     ],
     "inherits": "Creality Generic ABS @K1-all",
     "is_custom_defined": "0",
-    "name": "Fiberon PA 6-GF25 Polymaker @K1C 0.4 nozzle",
+    "name": "Polymaker Fiberon PA6-GF25 @K1C",
     "nozzle_temperature": [
         "285"
     ],

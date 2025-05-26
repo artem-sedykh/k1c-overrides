@@ -45,7 +45,7 @@
         "1.4"
     ],
     "filament_settings_id": [
-        "Eryone ABS-Carbon @K1"
+        "Eryone ABS-Carbon @K1C"
     ],
     "filament_vendor": [
         "eryone"
@@ -59,7 +59,7 @@
     ],
     "inherits": "Creality Generic ABS @K1-all",
     "is_custom_defined": "0",
-    "name": "Eryone ABS-Carbon @K1",
+    "name": "Eryone ABS-Carbon @K1C",
     "nozzle_temperature": [
         "270"
     ],

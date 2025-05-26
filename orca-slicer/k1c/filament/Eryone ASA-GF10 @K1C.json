@@ -27,7 +27,7 @@
         "0.5"
     ],
     "filament_settings_id": [
-        "Eryone ASA-GF10 @K1"
+        "Eryone ASA-GF10 @K1C"
     ],
     "filament_type": [
         "ASA"
@@ -36,9 +36,9 @@
         "eryone"
     ],
     "from": "User",
-    "inherits": "Creality Generic ABS @K1-all",
+    "inherits": "Creality Generic ASA @K1-all",
     "is_custom_defined": "0",
-    "name": "Eryone ASA-GF10 @K1",
+    "name": "Eryone ASA-GF10 @K1C",
     "nozzle_temperature": [
         "255"
     ],

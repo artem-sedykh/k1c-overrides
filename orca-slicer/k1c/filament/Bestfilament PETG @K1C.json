@@ -21,7 +21,7 @@
         "30"
     ],
     "filament_settings_id": [
-        "BestFilament PETG K1C"
+        "Bestfilament PETG @K1C"
     ],
     "filament_start_gcode": [
         "; filament start gcode\nSET_GCODE_OFFSET Z=0.04 MOVE=0"
@@ -36,9 +36,9 @@
     "hot_plate_temp_initial_layer": [
         "65"
     ],
-    "inherits": "Creality Generic PETG",
+    "inherits": "Creality Generic PETG @K1-all",
     "is_custom_defined": "0",
-    "name": "BestFilament PETG K1C",
+    "name": "Bestfilament PETG @K1C",
     "nozzle_temperature": [
         "225"
     ],

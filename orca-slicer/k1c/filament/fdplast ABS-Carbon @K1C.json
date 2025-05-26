@@ -15,7 +15,7 @@
         "0.7"
     ],
     "filament_settings_id": [
-        "fdplast ABS-Carbon @K1"
+        "fdplast ABS-Carbon @K1C"
     ],
     "filament_vendor": [
         "fdplast"
@@ -23,7 +23,7 @@
     "from": "User",
     "inherits": "Creality Generic ABS @K1-all",
     "is_custom_defined": "0",
-    "name": "fdplast ABS-Carbon @K1",
+    "name": "fdplast ABS-Carbon @K1C",
     "nozzle_temperature": [
         "255"
     ],

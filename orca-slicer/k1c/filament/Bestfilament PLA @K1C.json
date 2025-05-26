@@ -12,12 +12,12 @@
         "0.8"
     ],
     "filament_settings_id": [
-        "Bestfilament PLA K1C"
+        "Bestfilament PLA @K1C"
     ],
     "from": "User",
     "inherits": "Creality Generic PLA @K1-all",
     "is_custom_defined": "0",
-    "name": "Bestfilament PLA K1C",
+    "name": "Bestfilament PLA @K1C",
     "nozzle_temperature": [
         "235"
     ],

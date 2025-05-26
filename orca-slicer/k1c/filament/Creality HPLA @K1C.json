@@ -15,7 +15,7 @@
         "0.6"
     ],
     "filament_settings_id": [
-        "Creality HPLA My"
+        "Creality HPLA @K1C"
     ],
     "filament_vendor": [
         "Creality"
@@ -23,7 +23,7 @@
     "from": "User",
     "inherits": "Creality Generic PLA High Speed @K1-all",
     "is_custom_defined": "0",
-    "name": "Creality HPLA My",
+    "name": "Creality HPLA @K1C",
     "nozzle_temperature": [
         "230"
     ],

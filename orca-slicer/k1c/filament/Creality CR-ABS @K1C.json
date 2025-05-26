@@ -33,7 +33,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "Creality CR-ABS (0.4 nozzle)"
+        "Creality CR-ABS @K1C"
     ],
     "filament_vendor": [
         "creality"
@@ -47,7 +47,7 @@
     ],
     "inherits": "Creality Generic ABS @K1-all",
     "is_custom_defined": "0",
-    "name": "Creality CR-ABS (0.4 nozzle)",
+    "name": "Creality CR-ABS @K1C",
     "nozzle_temperature_range_high": [
         "260"
     ],
