@@ -1,0 +1,121 @@
+{
+    "chamber_temperature": [
+        "42"
+    ],
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
+    ],
+    "default_filament_colour": [
+        "#808080"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "45"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "45"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_density": [
+        "1.2"
+    ],
+    "filament_flow_ratio": [
+        "0.9664"
+    ],
+    "filament_max_volumetric_speed": [
+        "9"
+    ],
+    "filament_notes": [
+        "#*# [probe]\n#*# z_offset = 1.480\n\nДля сохранения целостности технологии Warp-Free и предотвращения коробления рекомендуется не превышать температуру 50°К при использовании Fiberon™ PA6-GF25."
+    ],
+    "filament_retraction_length": [
+        "2.5"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "Fiberon PA 6-GF25 Polymaker @K1C 0.4 nozzle"
+    ],
+    "filament_type": [
+        "PA"
+    ],
+    "filament_vendor": [
+        "Fiberon"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Creality Generic ABS @K1-all",
+    "is_custom_defined": "0",
+    "name": "Fiberon PA 6-GF25 Polymaker @K1C 0.4 nozzle",
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "280"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "95%"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "supertack_plate_temp": [
+        "45"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "45"
+    ],
+    "temperature_vitrification": [
+        "191"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.0.2.0"
+}

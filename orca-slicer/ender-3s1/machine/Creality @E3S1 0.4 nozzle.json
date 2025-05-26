@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT MAX_LAYER_Z=[max_layer_z] PRINTABLE_HEIGHT=[printable_height] Z_OFFSET=[z_offset] PRINT_BED_MAX=[print_bed_max] TRAVEL_SPEED=[travel_speed]",
+    "machine_start_gcode": "M104 S0 ; Stops OrcaSlicer from sending temp waits separately\nM104 S0 \nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] TEMPERATURE_VITRIFICATION=[temperature_vitrification]",
+    "name": "Creality Ender-3 S1 Pro 0.4 nozzle - my",
+    "print_host": "http://192.168.1.85/",
+    "printer_settings_id": "Creality Ender-3 S1 Pro 0.4 nozzle - my",
+    "version": "2.3.0.3"
+}

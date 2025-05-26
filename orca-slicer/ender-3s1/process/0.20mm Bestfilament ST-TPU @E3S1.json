@@ -1,0 +1,23 @@
+{
+    "default_jerk": "4",
+    "from": "User",
+    "infill_jerk": "6",
+    "inherits": "0.20mm Standard @Creality Ender3S1Pro",
+    "initial_layer_jerk": "6",
+    "inner_wall_jerk": "6",
+    "is_custom_defined": "0",
+    "name": "0.20mm bestfilament ST-TPU @Creality Ender3S1",
+    "outer_wall_jerk": "6",
+    "outer_wall_line_width": "0.9",
+    "print_settings_id": "0.20mm bestfilament ST-TPU @Creality Ender3S1",
+    "seam_gap": "0",
+    "seam_slope_conditional": "1",
+    "seam_slope_type": "all",
+    "skirt_distance": "10",
+    "sparse_infill_density": "50%",
+    "top_surface_jerk": "6",
+    "travel_jerk": "6",
+    "travel_speed": "70",
+    "version": "2.3.0.3",
+    "wall_loops": "7"
+}

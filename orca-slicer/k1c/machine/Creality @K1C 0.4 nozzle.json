@@ -1,0 +1,16 @@
+{
+    "from": "User",
+    "inherits": "Creality K1C 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_start_gcode": "M104 S0 ; Stops OrcaSlicer from sending temp waits separately\nM104 S0 \nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] TEMPERATURE_VITRIFICATION=[temperature_vitrification]",
+    "name": "Creality K1C 0.4 nozzle my",
+    "print_host": "http://192.168.1.139:4408/",
+    "printer_settings_id": "Creality K1C 0.4 nozzle my",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "version": "2.0.2.0",
+    "wipe": [
+        "0"
+    ]
+}

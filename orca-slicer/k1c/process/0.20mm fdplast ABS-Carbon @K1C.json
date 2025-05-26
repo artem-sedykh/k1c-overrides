@@ -1,0 +1,23 @@
+{
+    "bottom_shell_layers": "4",
+    "bottom_surface_pattern": "zig-zag",
+    "brim_type": "no_brim",
+    "from": "User",
+    "gap_infill_speed": "50",
+    "inherits": "0.20mm Standard @Creality K1C",
+    "initial_layer_infill_speed": "50",
+    "initial_layer_speed": "30",
+    "inner_wall_speed": "50",
+    "internal_solid_infill_pattern": "zig-zag",
+    "internal_solid_infill_speed": "50",
+    "is_custom_defined": "0",
+    "name": "0.20mm fdplast ABS-Carbon Creality K1C",
+    "outer_wall_speed": "50",
+    "print_settings_id": "0.20mm fdplast ABS-Carbon Creality K1C",
+    "sparse_infill_speed": "50",
+    "top_shell_layers": "4",
+    "top_surface_pattern": "monotonic",
+    "top_surface_speed": "50",
+    "travel_speed": "300",
+    "version": "2.0.2.0"
+}

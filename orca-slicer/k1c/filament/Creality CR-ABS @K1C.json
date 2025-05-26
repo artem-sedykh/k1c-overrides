@@ -1,0 +1,76 @@
+{
+    "chamber_temperature": [
+        "60"
+    ],
+    "cool_plate_temp": [
+        "115"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "115"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "115"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "115"
+    ],
+    "fan_min_speed": [
+        "70"
+    ],
+    "filament_flow_ratio": [
+        "0.956"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "Creality CR-ABS (0.4 nozzle)"
+    ],
+    "filament_vendor": [
+        "creality"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "115"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "115"
+    ],
+    "inherits": "Creality Generic ABS @K1-all",
+    "is_custom_defined": "0",
+    "name": "Creality CR-ABS (0.4 nozzle)",
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "25"
+    ],
+    "textured_cool_plate_temp": [
+        "115"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "115"
+    ],
+    "textured_plate_temp": [
+        "115"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "115"
+    ],
+    "version": "2.1.1.0"
+}
