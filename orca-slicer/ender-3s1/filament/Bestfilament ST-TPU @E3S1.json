@@ -9,7 +9,7 @@
         "1.2"
     ],
     "filament_settings_id": [
-        "Ender-3S1 bestfilament ST-TPU"
+        "Bestfilament ST-TPU @E3S1"
     ],
     "filament_vendor": [
         "bestfilament"
@@ -26,7 +26,7 @@
     ],
     "inherits": "Creality Generic TPU",
     "is_custom_defined": "0",
-    "name": "Ender-3S1 bestfilament ST-TPU",
+    "name": "Bestfilament ST-TPU @E3S1",
     "nozzle_temperature": [
         "210"
     ],
