@@ -1,0 +1,96 @@
+{
+  "default_macros": {
+    "belts_shaper_calibration": "BELTS_SHAPER_CALIBRATION",
+    "cooldown": "TURN_OFF_HEATERS",
+    "excitate_axis_at_frequency": "EXCITATE_AXIS_AT_FREQUENCY",
+    "extrude": "_GUPPYSCREEN_EXTRUDE EXTRUDER_TEMP={} EXTRUDE_LEN={} SPEED={}",
+    "load_filament": "LOAD_FILAMENT EXTRUDER_TEMP={}",
+    "retract": "_GUPPYSCREEN_RETRACT EXTRUDER_TEMP={} EXTRUDE_LEN={} SPEED={}",
+    "unload_filament": "UNLOAD_FILAMENT EXTRUDER_TEMP={}"
+  },
+  "display_brightness": 90,
+  "display_rotate": 3,
+  "display_sleep_sec": 120,
+  "factory_reset_script": "/etc/init.d/S58factoryreset",
+  "fans": [
+    {
+      "display_name": "Toolhead",
+      "id": "fan_generic part"
+    },
+    {
+      "display_name": "Auxiliary",
+      "id": "fan_generic auxiliary"
+    },
+    {
+      "display_name": "Chamber",
+      "id": "fan_generic chamber"
+    },
+    {
+      "display_name": "Toolhead",
+      "id": "output_pin fan0"
+    },
+    {
+      "display_name": "Auxiliary",
+      "id": "output_pin fan2"
+    },
+    {
+      "display_name": "Chamber",
+      "id": "output_pin fan1"
+    }
+  ],
+  "guppy_restart_cmd": "sudo systemctl restart grumpyscreen",
+  "invert_z_icon": false,
+  "leds": [
+    {
+      "display_name": "LED",
+      "id": "output_pin LED",
+      "pwm": true
+    },
+    {
+      "display_name": "Red",
+      "id": "output_pin red_pin",
+      "pwm": false
+    },
+    {
+      "display_name": "Green",
+      "id": "output_pin green_pin",
+      "pwm": false
+    },
+    {
+      "display_name": "Yellow",
+      "id": "output_pin yellow_pin",
+      "pwm": false
+    },
+    {
+      "display_name": "Light",
+      "id": "output_pin light_pin",
+      "pwm": false
+    }
+  ],
+  "log_level": "info",
+  "monitored_sensors": [
+    {
+      "color": "red",
+      "controllable": true,
+      "display_name": "Extruder",
+      "id": "extruder"
+    },
+    {
+      "color": "purple",
+      "controllable": true,
+      "display_name": "Bed",
+      "id": "heater_bed"
+    },
+    {
+      "color": "blue",
+      "controllable": true,
+      "display_name": "Chamber",
+      "id": "chamber"
+    }
+  ],
+  "moonraker_host": "127.0.0.1",
+  "moonraker_port": 7125,
+  "prompt_emergency_stop": true,
+  "theme": "blue",
+  "wpa_supplicant": "/var/run/wpa_supplicant"
+}
