@@ -85,7 +85,7 @@
       "color": "blue",
       "controllable": true,
       "display_name": "Chamber",
-      "id": "chamber"
+      "id": "heater_generic chamber"
     }
   ],
   "moonraker_host": "127.0.0.1",
